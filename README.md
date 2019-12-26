@@ -20,10 +20,6 @@ UMcms官方群：23192767
 
 UMcms官方网址：http://www.umcms.net/
 
-umcms演示网址：http://demo.umcms.net/
-
-umcms官方论坛：http://bbs.umcms.net/
-
 umcms作者：　　我是UMcms程序设计
 
 本手册出自[窝也工作室]，免费分享给大家参照使用。
