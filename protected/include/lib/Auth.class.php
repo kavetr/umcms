@@ -44,7 +44,7 @@ class Auth
 		unset($_SESSION['admin_uid']);
 		unset($_SESSION['admin_username']);
 		unset($_SESSION['admin_realname']);
-		unset($_SESSION['yxapppower']);
+		unset($_SESSION['umapppower']);
 	}
 
 	//检测用户是否登录
@@ -289,7 +289,7 @@ class Auth
 			}
 		}
 		session(self::$config['AUTH_SESSION_PREFIX'].'power',$power);
-		session('yxapppower',$apppower);
+		session('umapppower',$apppower);
 		return $power;//返回权限值
 	}
 
