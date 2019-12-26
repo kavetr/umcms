@@ -60,7 +60,7 @@ return array (
     'TOKEN_ON' => true,
     'TOKEN_KEY' => 'VRcs478',
   ),
-  'ver_name' => 'UMcmsApp 1.0.0',
+  'ver_name' => 'UMcmsApp 1.0.7',
   'ver_date' => '20191226',
   'copyright' => '由UMcms提供技术支持',
   'sitename' => 'UMcms建站系统',
