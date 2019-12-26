@@ -5,7 +5,7 @@ $(document).ready(function(){
 });
 </script>
 <div class="layout listbanner bg-blue">
-    <div class="container"><h1 class="fadein-top">YXcms Demo</h1><p class="fadein-bottom">该模板采用前端框架式架构，兼容PC、平板和手机</p></div>
+    <div class="container"><h1 class="fadein-top">UMcms Demo</h1><p class="fadein-bottom">该模板采用前端框架式架构，兼容PC、平板和手机</p></div>
 </div>
 
 <div class="container margin-top">
