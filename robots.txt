@@ -1,0 +1,6 @@
+#
+# robots.txt for UMCMS
+#
+User-agent: * 
+Disallow: /data
+Disallow: /protected
